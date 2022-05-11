@@ -1,2 +1,2 @@
-# Lankku
-Lankku keyboard made by Eetu for Eetu
+# Lihis
+Lihis is a keyboard made by Eetu for Eetu
