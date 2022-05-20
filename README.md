@@ -1,7 +1,7 @@
 # Lihis
 Lihis is a keyboard made by Eetu for Eetu. It's basically a worse Helix using a Blackpill.
 
-![lihis](https://imgur.com/a/teNtnVp)
+![Lihis](/Assets/lihis%20keyboard%20picture.jpg)
 # Parts
  - 48x Hotswap sockets (MX or Choc or both)
  - 48x Diodes (Through hole or SMD)
