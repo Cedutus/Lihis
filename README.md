@@ -11,7 +11,7 @@ Lihis is a keyboard made by Eetu for Eetu. It's basically a worse Helix using a 
  - 12x 5mm or shorter M2 screws
  -  4x 12mm M2 spacer
  - 8x 10mm M2 spacer
- - 2x Rotary encored with caps (optional)
+ - 2x Rotary encoder with caps (optional)
 
 # Build guide
  - Solder diodes on the PCB
